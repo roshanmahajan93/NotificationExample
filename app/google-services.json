@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741473269395",
+    "project_id": "notificationexample-ccf08",
+    "storage_bucket": "notificationexample-ccf08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741473269395:android:7c2b05bd1c3b283cd6ff66",
+        "android_client_info": {
+          "package_name": "com.prishan.notificationexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741473269395-pm74q3msb7s2dknevf4ofm4tv7o2a6p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaW54SjJwrmXNCfjLHbuggkf-B5f8AfcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741473269395-pm74q3msb7s2dknevf4ofm4tv7o2a6p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
